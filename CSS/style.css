@@ -26,9 +26,6 @@
     line-height: 49px;
     color: black;
 }
-.logo{
-    width: 150px;
-}
 /* Hamburger Menu */
 .hamburger-lines {
     display: block;
@@ -46,7 +43,7 @@
     height: 4px;
     width: 100%;
     border-radius: 10px;
-    background: white;
+    background: black;
     margin-bottom:10px
   }
 
@@ -113,3 +110,4 @@
       display: none;
     }
   }
+

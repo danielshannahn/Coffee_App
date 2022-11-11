@@ -35,7 +35,7 @@ h1:hover{
   color: white;
 }
 .bodyofthepage{
-  background-image: url("/Images/wood1.jpg");
+  background-image: url("/Images/wood1.jpg"), url("/Coffee_App/Images/wood1.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
 }

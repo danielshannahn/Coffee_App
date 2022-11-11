@@ -35,7 +35,7 @@ h1:hover{
   color: white;
 }
 .bodyofthepage{
-  background-image: url("/Images/wood1.png");
+  background-image: url("Images\wood1.png");
   background-repeat: no-repeat;
   background-size: 100%;
 }

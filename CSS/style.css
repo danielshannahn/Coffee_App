@@ -41,11 +41,11 @@ h1:hover{
 }
 .handsimages1{
   width: 1000px;
-  margin-left: 12%;
+  margin-left: auto;
 }
 .quizhand1{
   width: 1000px;
-  margin-right: 5%;
+  margin-right: auto;
 }
 .handimages{
   display: flex;
@@ -65,7 +65,6 @@ h1:hover{
   background-color: transparent;
   width: 400px;
   height: 400px;
-  /* border: 1px solid #f1f1f1; */
   perspective: 1000px; /* Remove this if you don't want the 3D effect */
 }
 .flipcardinner {
